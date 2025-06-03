@@ -17,13 +17,13 @@ You will:
 1. Accept the GitHub Classroom assignment invitation
 2. Clone your personal repository that was created by GitHub Classroom
 3. Install MongoDB locally or set up a MongoDB Atlas account
-4. Run the provided `insert_books.js` script to populate your database
+4. Run the provided [`insert_books.js`](./insert_books.js) script to populate your database
 5. Complete the tasks in the assignment document
 
 ## Files Included
 
-- `Week1-Assignment.md`: Detailed assignment instructions
-- `insert_books.js`: Script to populate your MongoDB database with sample book data
+- [`Week1-Assignment.md`](./Week1-Assignment.md): Detailed assignment instructions
+- [`insert_books.js`](./insert_books.js): Script to populate your MongoDB database with sample book data
 
 ## Requirements
 
@@ -36,7 +36,7 @@ You will:
 Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
 
 1. Complete all tasks in the assignment
-2. Add your `queries.js` file with all required MongoDB queries
+2. Add your [`queries.js`](./queries.js) file with all required MongoDB queries
 3. Include a screenshot of your MongoDB database
 4. Update the README.md with your specific setup instructions
 

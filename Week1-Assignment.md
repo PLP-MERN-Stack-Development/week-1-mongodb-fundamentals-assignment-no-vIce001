@@ -11,7 +11,7 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
 - Create a collection called `books`
 
 ### Task 2: Basic CRUD Operations
-- Use the provided `insert_books.js` script to insert at least 10 book documents into your collection
+- Use the provided [`insert_books.js`](./insert_books.js) script to insert at least 10 book documents into your collection
 - Each book should have the following fields:
   - `title` (string)
   - `author` (string)
@@ -53,17 +53,17 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
 
 ## 🛠️ Setup
 1. Install MongoDB Community Edition or set up a MongoDB Atlas account
-2. Use the provided `insert_books.js` script to populate your database
+2. Use the provided [`insert_books.js`](./insert_books.js) script to populate your database
 3. Use MongoDB Shell (mongosh) or MongoDB Compass to interact with your database
-4. Save all your queries in a file called `queries.js`
+4. Save all your queries in a file called [`queries.js`](./queries.js)
 
 ## ✅ Submission Instructions
 1. Accept the GitHub Classroom assignment invitation
 2. Clone your personal repository that was created by GitHub Classroom
 3. Add the following files to your repository:
-   - `insert_books.js` (with your modifications if any)
-   - `queries.js` (containing all your MongoDB queries)
-   - A `README.md` file explaining how to run your scripts
+   - [`insert_books.js`](./insert_books.js) (with your modifications if any)
+   - [`queries.js`](./queries.js) (containing all your MongoDB queries)
+   - A [`README.md`](./Assignment-README.md) file explaining how to run your scripts
    - A screenshot of your MongoDB Compass or Atlas showing your collections and sample data
 4. Commit and push your changes to GitHub
 5. Your submission will be automatically graded based on the criteria in the autograding configuration
